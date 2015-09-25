@@ -21,6 +21,8 @@ Description:         A library and program for the creation,
 Category:            Database
 Author:              Jonathan Daugherty <cygnus@foobox.com>
 Maintainer:          Jonathan Daugherty <cygnus@foobox.com>
+homepage:            http://github.com/jtdaugherty/dbmigrations
+Bug-Reports:         http://github.com/jtdaugherty/dbmigrations/issues
 Build-Type:          Simple
 License:             BSD3
 License-File:        LICENSE
